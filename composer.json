@@ -1,12 +1,12 @@
 {
-  "name": "kolinalabs/customer-bundle",
+  "name": "diego-campos-fivebyfive/customer-bundle",
   "description": "Symfony KolinaCustomerBundle",
   "type": "symfony-bundle",
   "license": "MIT",
   "authors": [
     {
-      "name": "Claudinei Machado",
-      "email": "claudinei@kolinalabs.com"
+      "name": "Diego de Campos",
+      "email": "diego.campos@5by5.com.br"
     }
   ],
   "require": {
